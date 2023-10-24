@@ -1,5 +1,3 @@
-feather.replace();
-
 const scriptURL = 'https://script.google.com/macros/s/AKfycbyTawRoR6ULAc9NAFpl31pFyPlIm3wdb3fYP94CQ3Rk2TLaNbxw5BIoFeKiunVx94pX/exec'
 
 const form = document.forms['contact-form']
